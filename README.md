@@ -29,8 +29,16 @@ The results are printed directly to the console.
 
 The output will display the results of the calculations for the static data provided in the code. Below is an example of what you should see:
 
+Calculations for static data:
 
+Dividend Yield for TEA at price 100: 0.0
+Dividend Yield for COF at price 200: 0.02
 
+P/E Ratio for MIL at price 120: 15.0
+
+VWSP for MIL: 113.0
+
+All Share Index: 113.0
 
 ## Understanding the Calculations
 
