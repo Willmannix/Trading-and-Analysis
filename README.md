@@ -80,12 +80,3 @@ To test different scenarios, you can modify the static data directly in the JDoo
 
 3. **Execute the Code**:
    - Click the **"Execute"** button again to see the updated results.
-
-## Troubleshooting
-
-- If you encounter any errors during execution, check for typos or missing parts of the code.
-- Ensure the JDoodle editor is fully loaded and you have a stable internet connection.
-
-## Conclusion
-
-By following these instructions, you can easily run the Stock Market Calculator application on JDoodle, review the results, and modify the static data for further testing. This setup provides a convenient way to understand and verify the stock market calculations performed by the application.
